@@ -14,7 +14,7 @@ public static void main(String[]args){
         }
 	}
 
-public static void main(String[]args){
+/*public static void main(String[]args){
               int [][] arr=new int[][]{{4,5,6},{2,3,9}};
               int [][] arrtrans=new int[arr[0].length][arr.length];
         for (int i=0;i<arr.length;i++){
@@ -32,6 +32,6 @@ public static void main(String[]args){
 
 
 
-}
+}*/
 
 
